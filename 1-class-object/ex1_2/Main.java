@@ -2,6 +2,7 @@ package ex1_2;
 
 public class Main {
     public static void main(String[] args) {
+        // SINGLETONS (example)
         // Notice how it is only created once
         Singleton x1 = Singleton.getInstance();
         Singleton y1 = Singleton.getInstance();
