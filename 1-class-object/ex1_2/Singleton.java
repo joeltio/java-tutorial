@@ -1,4 +1,4 @@
-package ex2;
+package ex1_2;
 
 public class Singleton {
     private static Singleton INSTANCE;
