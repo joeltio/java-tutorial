@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "1-class-object",
+        "2-decl-inst-init",
+        "3-interfaces",
+        "4-polymorphism",
+        "5-generics"
+    ]
+}
